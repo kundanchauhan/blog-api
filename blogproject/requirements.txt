@@ -1,0 +1,6 @@
+Django==3.2.16
+django_choices==1.7.2
+djangorestframework==3.14.0
+djchoices==0.2
+PyJWT==2.6.0
+python_bcrypt==0.3.2
