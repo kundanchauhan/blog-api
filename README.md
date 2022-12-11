@@ -2,7 +2,7 @@
 # Blog API
 
 Simple Blog  API built using Django and django rest framework. The website displays All blog post, specify blog and many more.
-Users can create an account using JWT Authentication.
+Users can create an account using **JWT Authentication**. Blog API use **Postgresql** as database
 
 # Installation
 To get this project up and running you should start by having Python installed on your computer. It's advised you create a virtual environment to store your projects dependencies separately. You can install virtualenv with.
@@ -35,7 +35,6 @@ python manage.py runserver
 #### Get all items
 
 ```http
-  GET /api/items
   POST /user/create-user/
   POST /user/login/
   POST /user/refresh-token/
