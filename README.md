@@ -52,6 +52,4 @@ python manage.py runserver
   
 ```
 
-# Blog API Walk-through in video formate
 
-Blog API Walk Through youtube video link -> https://youtu.be/O7H7EKj4mDA
